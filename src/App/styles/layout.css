@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+
+.company-list {
+  flex: 1;
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.employee-list {
+  flex: 1;
+  padding: 20px;
+}
